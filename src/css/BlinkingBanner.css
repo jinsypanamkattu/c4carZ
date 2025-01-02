@@ -1,0 +1,22 @@
+
+
+.blinking-banner {
+  animation: blinker 3.5s linear infinite;
+  background-color: #fff;
+  color: #000;
+  font-weight: bold;
+  font-size: 1.9rem;
+  text-align: center;
+  margin: 10px auto;
+  width: fit-content;
+  border-radius: 10px;
+  padding: 20px;
+  text-shadow: 2px 2px 4px rgb(63, 96, 138), -2px -2px 1px rgb(0, 255, 179);
+}
+
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}

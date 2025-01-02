@@ -1,0 +1,183 @@
+[
+  {
+    "id": 1,
+    "model": "Civic",
+    "make": "Honda",
+    "year": 2020,
+    "price": 20000,
+    "image": "./src/assets/images/civic-honda.jpg",
+    "video": "https://www.youtube.com/embed/QWDmK93hIOc"
+  },
+  {
+    
+    "id": 2,
+    "model": "Accord",
+    "make": "Honda",
+    "year": 2021,
+    "price": 25000,
+    "image":"./src/assets/images/honda-accord.jpg",
+    "video": "https://www.youtube.com/embed/uM4rfnW8oLE"
+  },
+  {
+    "id": 3,
+    "model": "Model 3",
+    "make": "Tesla",
+    "year": 2022,
+    "price": 35000,
+    "image": "./src/assets/images/tesla.jpg",
+    "video": "https://www.youtube.com/embed/yJUcGfHCBC8"
+  },
+  {
+    "id": 4,
+    "model": "Model S",
+    "make": "Tesla",
+    "year": 2021,
+    "price": 75000,
+    "image": "./src/assets/images/tesla1.jpg",
+    "video": "https://www.youtube.com/embed/fdfuZgdCF5I"
+  },
+  {
+    "id": 5,
+    "model": "Camry",
+    "make": "Toyota",
+    "year": 2020,
+    "price": 24000,
+    "image": "./src/assets/images/toyota-camry.jpg",
+    "video": "https://www.youtube.com/embed/VWmoPg7wDow"
+  },
+  {
+    "id": 6,
+    "model": "Corolla",
+    "make": "Toyota",
+    "year": 2019,
+    "price": 20000,
+    "image": "./src/assets/images/toyota-corola.jpg",
+    "video": "https://www.youtube.com/embed/6NzkgAUZloo"
+  },
+  {
+    "id": 7,
+    "model": "Mustang",
+    "make": "Ford",
+    "year": 2021,
+    "price": 50000,
+    "image":  "./src/assets/images/ford-mustang.jpg",
+    "video": "https://www.youtube.com/embed/SbpbtmmEaHk"
+  },
+  {
+    "id": 8,
+    "model": "F-150",
+    "make": "Ford",
+    "year": 2022,
+    "price": 40000,
+    "image": "./src/assets/images/ford-f150.jpg",
+    "video": "https://www.youtube.com/embed/6Bar28N-q0s"
+  },
+  {
+    "id": 9,
+    "model": "Altima",
+    "make": "Nissan",
+    "year": 2020,
+    "price": 23000,
+    "image": "./src/assets/images/nissan-altima.jpg",
+    "video": "https://www.youtube.com/embed/NZU5tlCwV-c"
+  },
+  {
+    "id": 10,
+    "model": "Sentra",
+    "make": "Nissan",
+    "year": 2019,
+    "price": 18000,
+    "image": "./src/assets/images/nissan-sentra.jpg",
+    "video": "https://www.youtube.com/embed/0MVjkVq82RU"
+  },
+  {
+    "id": 11,
+    "model": "Charger",
+    "make": "Dodge",
+    "year": 2021,
+    "price": 36000,
+    "image":"./src/assets/images/dodge-charger.jpg",
+    "video": "https://www.youtube.com/embed/jQSZlO7AyHo"
+  },
+  {
+    "id": 12,
+    "model": "Challenger",
+    "make": "Dodge",
+    "year": 2022,
+    "price": 40000,
+    "image": "./src/assets/images/dodge-challenger.jpg",
+    "video": "https://www.youtube.com/embed/Znmr7qkxl30"
+  },
+  {
+    "id": 13,
+    "model": "CX-5",
+    "make": "Mazda",
+    "year": 2021,
+    "price": 28000,
+    "image": "./src/assets/images/mazda-cx5.jpg",
+    "video": "https://www.youtube.com/embed/FnovTIRiO5M"
+  },
+  {
+    "id": 14,
+    "model": "Mazda3",
+    "make": "Mazda",
+    "year": 2020,
+    "price": 21000,
+    "image": "./src/assets/images/mazda3.jpg",
+    "video": "https://www.youtube.com/embed/xz3rERvY1xY"
+  },
+  {
+    "id": 15,
+    "model": "X5",
+    "make": "BMW",
+    "year": 2022,
+    "price": 60000,
+    "image": "./src/assets/images/bmw-x5.jpg",
+    "video": "https://www.youtube.com/embed/eipY_SsUnsE"
+  },
+  {
+    "id": 16,
+    "model": "3 Series",
+    "make": "BMW",
+    "year": 2021,
+    "price": 45000,
+    "image": "./src/assets/images/bmw3.jpg",
+    "video": "https://www.youtube.com/embed/H9KDbrawDRQ"
+  },
+  {
+    "id": 17,
+    "model": "A4",
+    "make": "Audi",
+    "year": 2022,
+    "price": 42000,
+    "image": "./src/assets/images/a4-audi.jpg",
+    "video": "https://www.youtube.com/embed/Rzy4kbRsBHU"
+  },
+  {
+    "id": 18,
+    "model": "Q5",
+    "make": "Audi",
+    "year": 2021,
+    "price": 50000,
+    "image": "./src/assets/images/audi-q5.jpg",
+    "video": "https://www.youtube.com/embed/RXRf7HE2f_w"
+  },
+  {
+    "id": 19,
+    "model": "C-Class",
+    "make": "Mercedes-Benz",
+    "year": 2022,
+    "price": 43000,
+    "image": "./src/assets/images/mercedes-cclass.jpg",
+    "video": "https://www.youtube.com/embed/htC-8mg3oNA"
+  },
+  {
+    "id": 20,
+    "model": "E-Class",
+    "make": "Mercedes-Benz",
+    "year": 2021,
+    "price": 55000,
+    "image": "./src/assets/images/mercedes-eclass.jpg",
+    "video": "https://www.youtube.com/embed/IKZAgXim9DU"
+  }
+]
