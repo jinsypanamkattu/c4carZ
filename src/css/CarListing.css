@@ -55,5 +55,21 @@ input.custom-text-box {
     font-size: 1.2rem;
     color: #ffcc00;
   }
+  /* Responsive design */
+  @media (max-width: 768px) {
+    .filters {
+      flex-direction: column;
+      gap: 15px;
+    }
+
+    .custom-select, .custom-text-box {
+      width: 100%;
+      font-size: 16px;
+    }
+
+    .filter-container {
+      width: 100%;
+    }
+  }
   
   
