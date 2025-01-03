@@ -15,8 +15,24 @@
 }
 
 
+/* Blinking animation */
 @keyframes blinker {
-  50% {
-    opacity: 0;
-  }
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+/* Make the font size and padding responsive */
+@media (max-width: 768px) {
+    .blinking-banner {
+        font-size: 1.2rem;
+        padding: 8px 15px;
+    }
+}
+
+@media (max-width: 480px) {
+    .blinking-banner {
+        font-size: 1rem;
+        padding: 6px 12px;
+    }
 }

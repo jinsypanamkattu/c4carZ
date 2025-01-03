@@ -5,6 +5,7 @@
   color: #ffcc00;
   font-size: 2rem;
   font-weight: bold;
+  
 }
 
 .logo {
@@ -15,4 +16,11 @@
   font-size: 2.5rem;
   text-shadow: 1px 1px 3px #000, -1px -1px 3px #000;
   
+}
+
+@media (max-width: 768px) {
+  .logo {
+
+    display: block;
+}
 }
