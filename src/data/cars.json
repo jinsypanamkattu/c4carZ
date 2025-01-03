@@ -5,7 +5,7 @@
     "make": "Honda",
     "year": 2020,
     "price": 20000,
-    "image": "./src/assets/images/civic-honda.jpg",
+    "image": "/assets/images/civic-honda.jpg",
     "video": "https://www.youtube.com/embed/QWDmK93hIOc"
   },
   {
@@ -15,7 +15,7 @@
     "make": "Honda",
     "year": 2021,
     "price": 25000,
-    "image":"./src/assets/images/honda-accord.jpg",
+    "image":"/assets/images/honda-accord.jpg",
     "video": "https://www.youtube.com/embed/uM4rfnW8oLE"
   },
   {
@@ -24,7 +24,7 @@
     "make": "Tesla",
     "year": 2022,
     "price": 35000,
-    "image": "./src/assets/images/tesla.jpg",
+    "image": "/assets/images/tesla.jpg",
     "video": "https://www.youtube.com/embed/yJUcGfHCBC8"
   },
   {
@@ -33,7 +33,7 @@
     "make": "Tesla",
     "year": 2021,
     "price": 75000,
-    "image": "./src/assets/images/tesla1.jpg",
+    "image": "/assets/images/tesla1.jpg",
     "video": "https://www.youtube.com/embed/fdfuZgdCF5I"
   },
   {
@@ -42,7 +42,7 @@
     "make": "Toyota",
     "year": 2020,
     "price": 24000,
-    "image": "./src/assets/images/toyota-camry.jpg",
+    "image": "/assets/images/toyota-camry.jpg",
     "video": "https://www.youtube.com/embed/VWmoPg7wDow"
   },
   {
@@ -51,7 +51,7 @@
     "make": "Toyota",
     "year": 2019,
     "price": 20000,
-    "image": "./src/assets/images/toyota-corola.jpg",
+    "image": "/assets/images/toyota-corola.jpg",
     "video": "https://www.youtube.com/embed/6NzkgAUZloo"
   },
   {
@@ -60,7 +60,7 @@
     "make": "Ford",
     "year": 2021,
     "price": 50000,
-    "image":  "./src/assets/images/ford-mustang.jpg",
+    "image":  "/assets/images/ford-mustang.jpg",
     "video": "https://www.youtube.com/embed/SbpbtmmEaHk"
   },
   {
@@ -69,7 +69,7 @@
     "make": "Ford",
     "year": 2022,
     "price": 40000,
-    "image": "./src/assets/images/ford-f150.jpg",
+    "image": "/assets/images/ford-f150.jpg",
     "video": "https://www.youtube.com/embed/6Bar28N-q0s"
   },
   {
@@ -78,7 +78,7 @@
     "make": "Nissan",
     "year": 2020,
     "price": 23000,
-    "image": "./src/assets/images/nissan-altima.jpg",
+    "image": "/assets/images/nissan-altima.jpg",
     "video": "https://www.youtube.com/embed/NZU5tlCwV-c"
   },
   {
@@ -87,7 +87,7 @@
     "make": "Nissan",
     "year": 2019,
     "price": 18000,
-    "image": "./src/assets/images/nissan-sentra.jpg",
+    "image": "/assets/images/nissan-sentra.jpg",
     "video": "https://www.youtube.com/embed/0MVjkVq82RU"
   },
   {
@@ -96,7 +96,7 @@
     "make": "Dodge",
     "year": 2021,
     "price": 36000,
-    "image":"./src/assets/images/dodge-charger.jpg",
+    "image":"/assets/images/dodge-charger.jpg",
     "video": "https://www.youtube.com/embed/jQSZlO7AyHo"
   },
   {
@@ -105,7 +105,7 @@
     "make": "Dodge",
     "year": 2022,
     "price": 40000,
-    "image": "./src/assets/images/dodge-challenger.jpg",
+    "image": "/assets/images/dodge-challenger.jpg",
     "video": "https://www.youtube.com/embed/Znmr7qkxl30"
   },
   {
@@ -114,7 +114,7 @@
     "make": "Mazda",
     "year": 2021,
     "price": 28000,
-    "image": "./src/assets/images/mazda-cx5.jpg",
+    "image": "/assets/images/mazda-cx5.jpg",
     "video": "https://www.youtube.com/embed/FnovTIRiO5M"
   },
   {
@@ -123,7 +123,7 @@
     "make": "Mazda",
     "year": 2020,
     "price": 21000,
-    "image": "./src/assets/images/mazda3.jpg",
+    "image": "/assets/images/mazda3.jpg",
     "video": "https://www.youtube.com/embed/xz3rERvY1xY"
   },
   {
@@ -132,7 +132,7 @@
     "make": "BMW",
     "year": 2022,
     "price": 60000,
-    "image": "./src/assets/images/bmw-x5.jpg",
+    "image": "/assets/images/bmw-x5.jpg",
     "video": "https://www.youtube.com/embed/eipY_SsUnsE"
   },
   {
@@ -141,7 +141,7 @@
     "make": "BMW",
     "year": 2021,
     "price": 45000,
-    "image": "./src/assets/images/bmw3.jpg",
+    "image": "/assets/images/bmw3.jpg",
     "video": "https://www.youtube.com/embed/H9KDbrawDRQ"
   },
   {
@@ -150,7 +150,7 @@
     "make": "Audi",
     "year": 2022,
     "price": 42000,
-    "image": "./src/assets/images/a4-audi.jpg",
+    "image": "/assets/images/a4-audi.jpg",
     "video": "https://www.youtube.com/embed/Rzy4kbRsBHU"
   },
   {
@@ -159,7 +159,7 @@
     "make": "Audi",
     "year": 2021,
     "price": 50000,
-    "image": "./src/assets/images/audi-q5.jpg",
+    "image": "/assets/images/audi-q5.jpg",
     "video": "https://www.youtube.com/embed/RXRf7HE2f_w"
   },
   {
@@ -168,7 +168,7 @@
     "make": "Mercedes-Benz",
     "year": 2022,
     "price": 43000,
-    "image": "./src/assets/images/mercedes-cclass.jpg",
+    "image": "/assets/images/mercedes-cclass.jpg",
     "video": "https://www.youtube.com/embed/htC-8mg3oNA"
   },
   {
@@ -177,7 +177,7 @@
     "make": "Mercedes-Benz",
     "year": 2021,
     "price": 55000,
-    "image": "./src/assets/images/mercedes-eclass.jpg",
+    "image": "/assets/images/mercedes-eclass.jpg",
     "video": "https://www.youtube.com/embed/IKZAgXim9DU"
   }
 ]
