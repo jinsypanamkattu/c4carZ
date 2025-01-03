@@ -8,7 +8,7 @@ function Header() {
     <div className="d-flex align-items-center justify-content-between">
     <div className="logo">
       <div>
-      <img src="./src/assets/images/logo.png" alt="logo"></img>
+      <img src="/assets/images/logo.png" alt="logo"></img>
       </div>
       <BlinkingBanner text="VROOM VROOOOOOOOMMM! Explore your dream cars!" />
       <div>
