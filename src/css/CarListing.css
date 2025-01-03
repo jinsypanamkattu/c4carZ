@@ -60,10 +60,14 @@ input.custom-text-box {
     .filters {
       flex-direction: column;
       gap: 15px;
+      margin-top:20px;
+    }
+    .car-listing {
+      padding: 0;
     }
 
     .custom-select, .custom-text-box {
-      width: 100%;
+      width: 90%;
       font-size: 16px;
     }
 
